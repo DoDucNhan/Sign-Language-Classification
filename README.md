@@ -8,7 +8,7 @@ In this case study, I will perform the analysis on a task as a Machine Learning 
 - Optimize an appropriate set of models in an appropriate way
 - Compare models, selection of the best two and reporting of final results
 
-You can find more details of each step in the [code](https://github.com/DoDucNhan/Sign-Language-Classification/blob/main/model_training.ipynb).
+You can find more details of each step in the [code](https://github.com/DoDucNhan/Sign-Language-Classification/blob/main/model_training.ipynb) and a demo through this [link](https://huggingface.co/spaces/GuzmanDo/sign-language-classification).
 
 ## Scenario
 A client is interested in having you (or rather the company that you work for) investigate whether it is possible to develop an app that would enable American sign language to be translated for people that do not sign, or those that sign in different languages/styles. They have provided you with a labelled data of images related to signs (hand positions) that represent individual letters in order to do a preliminary test of feasibility.
